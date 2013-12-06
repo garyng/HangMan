@@ -1,0 +1,8 @@
+C:\Users\ZhongBo\Desktop\VC#\HangMan\HangMan\obj\x86\Debug\HangMan.frmMain.resources
+C:\Users\ZhongBo\Desktop\VC#\HangMan\HangMan\obj\x86\Debug\HangMan.Properties.Resources.resources
+C:\Users\ZhongBo\Desktop\VC#\HangMan\HangMan\obj\x86\Debug\HangMan.csproj.GenerateResource.Cache
+C:\Users\ZhongBo\Desktop\VC#\HangMan\HangMan\bin\Debug\HangMan.exe
+C:\Users\ZhongBo\Desktop\VC#\HangMan\HangMan\bin\Debug\HangMan.pdb
+C:\Users\ZhongBo\Desktop\VC#\HangMan\HangMan\obj\x86\Debug\HangMan.exe
+C:\Users\ZhongBo\Desktop\VC#\HangMan\HangMan\obj\x86\Debug\HangMan.pdb
+C:\Users\ZhongBo\Desktop\VC#\HangMan\HangMan\obj\x86\Debug\HangMan.csprojResolveAssemblyReference.cache
